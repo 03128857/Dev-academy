@@ -1,0 +1,8 @@
+{
+  "name": "Dev academia",
+  "description": "Plateforme d\u0027inscription interactive avec diagnostic technique et envoi WhatsApp pour la formation professionnelle en développement web et mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
